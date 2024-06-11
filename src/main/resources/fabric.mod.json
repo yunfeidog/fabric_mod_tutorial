@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "demo01",
+  "version": "${version}",
+  "name": "demo01",
+  "description": "this is my first mod ",
+  "authors": [],
+  "contact": {
+    "repo": "无"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/demo01/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.cxk.demo01.client.DemoMod1Client"
+    ],
+    "main": [
+      "com.cxk.demo01.DemoMod1"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
