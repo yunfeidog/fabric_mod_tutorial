@@ -1,5 +1,8 @@
 {
   "item.demo01.ruby": "Ruby",
   "item.demo01.raw_ruby": "Raw Ruby",
+
+  "block.demo01.ruby_block": "Block of Ruby",
+
   "itemgroup.ruby": "Group Ruby"
 }

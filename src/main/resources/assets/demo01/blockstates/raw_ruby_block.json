@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "demo01:block/raw_ruby_block"
+    }
+  }
+}

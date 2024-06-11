@@ -1,6 +1,7 @@
 package com.cxk.demo01.item;
 
 import com.cxk.demo01.DemoMod1;
+import com.cxk.demo01.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -17,10 +18,9 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.RAW_RUBY);
-
                         entries.add(Items.DIAMOND);
-
-
+                        entries.add(ModBlocks.RUBY_BLOCK);
+                        entries.add(ModBlocks.RAW_RUBY_BLOCK);
                     }).build());
 
 

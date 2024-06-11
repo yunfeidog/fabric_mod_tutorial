@@ -1,5 +1,6 @@
 package com.cxk.demo01;
 
+import com.cxk.demo01.block.ModBlocks;
 import com.cxk.demo01.item.ModItemGroups;
 import com.cxk.demo01.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -18,5 +19,6 @@ public class DemoMod1 implements ModInitializer {
         LOGGER.info("Hello Fabric world!");
         ModItems.registerModItems();
         ModItemGroups.registerItemGroups();
+        ModBlocks.registerModBlocks();
     }
 }
