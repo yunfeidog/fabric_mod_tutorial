@@ -3,11 +3,11 @@
   "category": "misc",
   "cookingtime": 100,
   "experience": 0.7,
-  "group": "copper_ingot",
+  "group": "ruby",
   "ingredient": {
-    "item": "minecraft:raw_copper"
+    "item": "demo01:raw_ruby"
   },
   "result": {
-    "id": "minecraft:copper_ingot"
+    "id": "demo01:ruby"
   }
 }
