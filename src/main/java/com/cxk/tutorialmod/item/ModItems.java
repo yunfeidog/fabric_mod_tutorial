@@ -1,6 +1,6 @@
-package com.cxk.demo01.item;
+package com.cxk.tutorialmod.item;
 
-import com.cxk.demo01.DemoMod1;
+import com.cxk.tutorialmod.DemoMod1;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;

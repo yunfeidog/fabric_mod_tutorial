@@ -8,10 +8,10 @@
   ],
   "key": {
     "#": {
-      "item": "demo01:ruby"
+      "item": "tutorialmod:ruby"
     }
   },
   "result": {
-    "id": "demo01:ruby_block"
+    "id": "tutorialmod:ruby_block"
   }
 }

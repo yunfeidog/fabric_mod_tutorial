@@ -1,4 +1,4 @@
-package com.cxk.demo01.client;
+package com.cxk.tutorialmod.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

@@ -5,9 +5,9 @@
   "experience": 0.7,
   "group": "ruby",
   "ingredient": {
-    "item": "demo01:raw_ruby"
+    "item": "tutorialmod:raw_ruby"
   },
   "result": {
-    "id": "demo01:ruby"
+    "id": "tutorialmod:ruby"
   }
 }

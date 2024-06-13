@@ -1,8 +1,8 @@
-package com.cxk.demo01;
+package com.cxk.tutorialmod;
 
-import com.cxk.demo01.block.ModBlocks;
-import com.cxk.demo01.item.ModItemGroups;
-import com.cxk.demo01.item.ModItems;
+import com.cxk.tutorialmod.block.ModBlocks;
+import com.cxk.tutorialmod.item.ModItemGroups;
+import com.cxk.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import java.util.logging.Logger;
@@ -11,7 +11,7 @@ import java.util.logging.Logger;
  * @author houyunfei
  */
 public class DemoMod1 implements ModInitializer {
-    public static final String MOD_ID = "demo01";
+    public static final String MOD_ID = "tutorialmod";
     public static final Logger LOGGER = Logger.getLogger(MOD_ID);
 
     @Override

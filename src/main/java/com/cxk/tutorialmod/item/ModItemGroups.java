@@ -1,7 +1,7 @@
-package com.cxk.demo01.item;
+package com.cxk.tutorialmod.item;
 
-import com.cxk.demo01.DemoMod1;
-import com.cxk.demo01.block.ModBlocks;
+import com.cxk.tutorialmod.DemoMod1;
+import com.cxk.tutorialmod.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -21,6 +21,12 @@ public class ModItemGroups {
                         entries.add(Items.DIAMOND);
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
+
+                        entries.add(ModBlocks.RUBY_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
+                        entries.add(ModBlocks.NETHER_RUBY_ORE);
+                        entries.add(ModBlocks.END_STONE_RUBY_ORE);
+
                     }).build());
 
 

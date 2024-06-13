@@ -3,11 +3,11 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "demo01:ruby_block"
+      "item": "tutorialmod:ruby_block"
     }
   ],
   "result": {
-    "id": "demo01:ruby",
+    "id": "tutorialmod:ruby",
     "count": 9
   }
 }

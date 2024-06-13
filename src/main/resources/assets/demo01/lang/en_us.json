@@ -1,8 +1,13 @@
 {
-  "item.demo01.ruby": "Ruby",
-  "item.demo01.raw_ruby": "Raw Ruby",
+  "item.tutorialmod.ruby": "Ruby",
+  "item.tutorialmod.raw_ruby": "Raw Ruby",
 
-  "block.demo01.ruby_block": "Block of Ruby",
+  "block.tutorialmod.ruby_block": "Block of Ruby",
+
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.tutorialmod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.tutorialmod.end_stone_ruby_ore": "End Stone Ruby Ore",
 
   "itemgroup.ruby": "Group Ruby"
 }
